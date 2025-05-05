@@ -29,5 +29,5 @@ We switched to MIT App Inventor because:
 
 ### Error Documentation  
 Created a `Errors in python` folder with:  
-- A `python_errors.md` file explaining the errors and solutions.    
+- A (Real-Time-Voice-Translator/Errors in python/python_errors.md) file explaining the errors and solutions.    
 ---
