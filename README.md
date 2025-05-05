@@ -19,7 +19,7 @@ This project is a real-time voice translation application developed using MIT Ap
 ---
 
 ## Screenshots  
-| App Interface | Language Selection | Speech Recognition | Translation Result |  
+| App Interface | Language Selection | Speech Recognition | Translation |  
 |---------------|--------------------|--------------------|---------------------|  
 |![Picture2](https://github.com/user-attachments/assets/cdbbbf58-58b9-4999-a3db-1389d966ba63)|![Picture4](https://github.com/user-attachments/assets/6632758a-af22-4704-9a92-f0edd100634b)|![Picture3](https://github.com/user-attachments/assets/287f382c-dca5-465a-af2f-45daef4bfd24)|![Picture5](https://github.com/user-attachments/assets/de2c4050-e068-4567-969f-62c83562d943)|
 
@@ -53,17 +53,5 @@ This project is a real-time voice translation application developed using MIT Ap
 4. **Listen**:  
    - Use the "Play" button to hear the translated text aloud.  
 
----
-
-## Acknowledgments  
-- **Guide**: Dr. G. Bagyalakshmi (School of Electrical and Electronics Engineering, SASTRA University).  
-- **Institution**: SASTRA Deemed-to-be-University for infrastructure and support.  
-- **APIs**: Google Cloud Translation and Speech-to-Text services.  
-
----
-
-## References  
-1. Gamal Bohouta et al., *Real-Time Speech Translation* (2018).  
-2. Google Translation API Documentation.  
-3. MIT App Inventor Official Guides.  
+--- 
 
