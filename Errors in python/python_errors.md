@@ -32,8 +32,8 @@ AttributeError: 'NoneType' object has no attribute 'group'
 
 ***2. Alternative Libraries***
 - Tried google-cloud-translate (official API), but it required:
-  -- Complex OAuth authentication.
-  -- Paid API credentials.
+  -Complex OAuth authentication.
+  -Paid API credentials.
 
 ***3. Error Handling***
 - Added try-except blocks to catch AttributeError:
@@ -44,7 +44,7 @@ try:
 except AttributeError:  
     print("Translation API failed!")  
 ```
-⚠️ Result: Translations remained unreliable.
+### ⚠️ Result: Translations remained unreliable.
 
 ---
 
