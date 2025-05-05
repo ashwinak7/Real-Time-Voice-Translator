@@ -28,7 +28,7 @@ We switched to MIT App Inventor because:
 ---
 
 ### Error Documentation  
-Created a `Errors in python`(Errors%20in%20python) folder with:  
+Created a [`Errors in python`](Errors%20in%20python) folder with:  
 - A [python_errors](Errors%20in%20python/python_errors.md) file explaining the errors and solutions.
 - A [python error image](Errors%20in%20python/Python%20errors.png) file shows us the error.
 ---
