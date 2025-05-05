@@ -32,6 +32,7 @@ AttributeError: 'NoneType' object has no attribute 'group'
 
 ***2. Alternative Libraries***
 - Tried google-cloud-translate (official API), but it required:
+  
    - Complex OAuth authentication.
    - Paid API credentials.
 
