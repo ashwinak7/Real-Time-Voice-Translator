@@ -5,7 +5,7 @@
 ---
 
 ## Description  
-This project is a real-time voice translation application developed using MIT App Inventor. It leverages speech recognition and translation APIs to enable seamless multilingual communication. The app translates spoken words instantly, supports 6+ languages, and features an intuitive interface accessible to users of all technical levels. Designed as an academic project at SASTRA University, it aims to foster global collaboration by eliminating linguistic obstacles.  
+This project is a real-time voice translation application developed using MIT App Inventor. It leverages speech recognition and translation APIs to enable seamless multilingual communication. The app translates spoken words instantly, supports 6+ languages, and features an intuitive interface accessible to users of all technical levels. Designed for an academic project at SASTRA University.
 
 ---
 
@@ -21,7 +21,8 @@ This project is a real-time voice translation application developed using MIT Ap
 ## Screenshots  
 | App Interface | Language Selection | Speech Recognition | Translation Result |  
 |---------------|--------------------|--------------------|---------------------|  
-| <img src="images/app_interface.png" width="200"> | <img src="images/language_selection.png" width="200"> | <img src="images/speech_recognition.png" width="200"> | <img src="images/translation_result.png" width="200"> |  
+| <img src="![Picture2](https://github.com/user-attachments/assets/cdbbbf58-58b9-4999-a3db-1389d966ba63)
+" width="200"> | <img src="images/language_selection.png" width="200"> | <img src="images/speech_recognition.png" width="200"> | <img src="images/translation_result.png" width="200"> |  
 *Figures from the report: MIT App Inventor Interface (3.2), Language Selection (4.1.1), Speech Recognition (4.2.1), Translation (4.3)*  
 
 ---
