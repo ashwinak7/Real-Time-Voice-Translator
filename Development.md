@@ -7,7 +7,7 @@ We initially attempted to build the translator using Python. However, we faced c
 - **Real-Time Limitations**: Python’s threading model caused delays in speech-to-text conversion.  
 
 Example error:  
-```c++
+```python
 # Sample Python Code (with error)  
 import speech_recognition as sr  
 r = sr.Recognizer()  
