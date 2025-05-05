@@ -6,7 +6,7 @@
 
 ### **Critical Error in Python Code**  
 
-The Python translator script failed due to an `AttributeError` in the `googletrans` library:  
+  The Python translator script failed due to an `AttributeError` in the `googletrans` library:  
 
 ```python
 text_to_translate = translator.translate(query, dest=to_lang)  
