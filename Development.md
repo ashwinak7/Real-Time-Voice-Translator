@@ -18,10 +18,27 @@ with sr.Microphone() as source:
 
 ---
 
-To overcome these challenges, we switched to MIT App Inventor because:
+### To overcome these challenges, 
+We switched to MIT App Inventor because:
+- Drag-and-Drop Simplicity: No complex library installations.
+- Built-in Blocks: Native support for speech recognition and translation APIs.
+- Real-Time Performance: Smooth integration of audio input/output with minimal lag.
 
-Drag-and-Drop Simplicity: No complex library installations.
 
-Built-in Blocks: Native support for speech recognition and translation APIs.
+---
 
-Real-Time Performance: Smooth integration of audio input/output with minimal lag.
+#### 2. **Error Documentation**  
+Create a `docs/errors/` folder with:  
+- A `python_errors.md` file explaining the errors and solutions.  
+- Screenshots of error messages (e.g., Figure 3.1.2 from your report).  
+
+```markdown
+<!-- docs/errors/python_errors.md -->  
+# Python Implementation Challenges  
+
+### 1. Speech Recognition Library Errors  
+**Issue**: Inconsistent behavior with `speech_recognition` library.  
+**Solution**: Switched to MIT App Inventor’s built-in `SpeechRecognizer` component.  
+
+![Error Message](images/error_status.png)  
+*Figure 3.1.2: Python Speech Recognition Error*  
