@@ -16,6 +16,8 @@ with sr.Microphone() as source:
 # Error: AttributeError: 'Recognizer' object has no attribute 'listen'
 ```
 
+---
+
 To overcome these challenges, we switched to MIT App Inventor because:
 
 Drag-and-Drop Simplicity: No complex library installations.
