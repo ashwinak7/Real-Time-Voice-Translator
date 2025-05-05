@@ -21,10 +21,7 @@ This project is a real-time voice translation application developed using MIT Ap
 ## Screenshots  
 | App Interface | Language Selection | Speech Recognition | Translation Result |  
 |---------------|--------------------|--------------------|---------------------|  
-|![Picture2](https://github.com/user-attachments/assets/cdbbbf58-58b9-4999-a3db-1389d966ba63)| ![Picture4](https://github.com/user-attachments/assets/6632758a-af22-4704-9a92-f0edd100634b)
- |![Picture3](https://github.com/user-attachments/assets/287f382c-dca5-465a-af2f-45daef4bfd24)
-| ![Uploading Picture5.png…]()|  
-*Figures from the report: MIT App Inventor Interface (3.2), Language Selection (4.1.1), Speech Recognition (4.2.1), Translation (4.3)*  
+|![Picture2](https://github.com/user-attachments/assets/cdbbbf58-58b9-4999-a3db-1389d966ba63)|![Picture4](https://github.com/user-attachments/assets/6632758a-af22-4704-9a92-f0edd100634b)|![Picture3](https://github.com/user-attachments/assets/287f382c-dca5-465a-af2f-45daef4bfd24)|![Picture5](https://github.com/user-attachments/assets/de2c4050-e068-4567-969f-62c83562d943)|
 
 ---
 
