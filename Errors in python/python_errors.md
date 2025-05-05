@@ -26,14 +26,14 @@ AttributeError: 'NoneType' object has no attribute 'group'
 ## 🧪 Debugging Steps Attempted
 
 ***1. Library Updates***
-- Upgraded googletrans, speech_recognition, and pyttsx3 to latest versions.
+- Upgraded `googletrans`, `speech_recognition`, and `pyttsx3` to latest versions.
 
-- ✅ Result: No fix. googletrans is unmaintained and incompatible with Google’s API changes.
+- ✅ Result: No fix. `googletrans` is unmaintained and incompatible with Google’s API changes.
 
 ***2. Alternative Libraries***
 - Tried google-cloud-translate (official API), but it required:
-  ~Complex OAuth authentication.
-  ~Paid API credentials.
+  -Complex OAuth authentication.
+  -Paid API credentials.
 
 ***3. Error Handling***
 - Added try-except blocks to catch AttributeError:
@@ -48,4 +48,4 @@ except AttributeError:
 
 ---
 
-## ✅ Final Solution: Transition to MIT App Inventor
+# ✅ Final Solution: Transition to MIT App Inventor
